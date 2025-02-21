@@ -1,5 +1,7 @@
 # GeoCodeDemo
 
+# LIVE DEMO: [https://sounny.github.io/geocodedemo/](https://sounny.github.io/geocodedemo/)
+
 This repository contains a single-page web application that utilizes Leaflet to display a map and provides a textbox for users to input one or multiple placenames. Each line in the textbox is treated as a separate address, which is then geocoded using the Nominatim API from OpenStreetMap. Markers are added for each successfully geocoded address, and the map automatically fits the bounds to show all markers. Additionally, there is a button to download all marker locations as a GeoJSON file.
 
 ## Features
